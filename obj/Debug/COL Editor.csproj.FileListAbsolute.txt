@@ -1,0 +1,13 @@
+C:\Users\phoen\source\repos\COL Editor\obj\Debug\COL Editor.csprojAssemblyReference.cache
+C:\Users\phoen\source\repos\COL Editor\obj\Debug\COL_Editor.COLEditor.resources
+C:\Users\phoen\source\repos\COL Editor\obj\Debug\COL_Editor.Properties.Resources.resources
+C:\Users\phoen\source\repos\COL Editor\obj\Debug\COL Editor.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\COL Editor\obj\Debug\COL Editor.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\COL Editor\bin\Debug\COL Editor.exe.config
+C:\Users\phoen\source\repos\COL Editor\bin\Debug\COL Editor.exe
+C:\Users\phoen\source\repos\COL Editor\bin\Debug\COL Editor.pdb
+C:\Users\phoen\source\repos\COL Editor\obj\Debug\COL Editor.csproj.CopyComplete
+C:\Users\phoen\source\repos\COL Editor\obj\Debug\COL Editor.exe
+C:\Users\phoen\source\repos\COL Editor\obj\Debug\COL Editor.pdb
+C:\Users\phoen\source\repos\COL Editor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\phoen\source\repos\COL Editor\obj\Debug\COL Editor.csproj.Fody.CopyLocal.cache
