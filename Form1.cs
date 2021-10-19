@@ -13,8 +13,8 @@ namespace COL_Editor
         #region variables
 
             Classes.COL.COLFile cf = new Classes.COL.COLFile();
-            string Version = "1.0";
-            string BaseURL = "https://pckstudio.tk/Studio/COL/api/";
+            string Version = "1.1";
+            string BaseURL = "https://pckstudio.xyz/Studio/COL/api/";
             string BackURL = "https://phoenixarc.github.io/pckstudio.tk/studio/COL/api/";
 
         #endregion
